@@ -1,8 +1,9 @@
-#Sencha's Guide to JavaScript Style and Best Practices
 <p align="right">
 <img alt="English (US)" title="English (US)" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/png/256/US.png" height="20">
 <a href="ja/README.md"><img alt="Japanese" title="Japanese" src="https://raw.githubusercontent.com/emcrisostomo/flags/master/png/256/JP.png" height="20"></a>
 </p>
+# Sencha's Guide to JavaScript Style and Best Practices
+
 The following document contains a series of best practices and recommendations for building enterprise web applications 
 with JavaScript and HTML5. 
 
