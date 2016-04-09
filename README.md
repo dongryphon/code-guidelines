@@ -1,5 +1,9 @@
 #Sencha's Guide to JavaScript Style and Best Practices
 
+<div style="clear:both">
+<div style="float:right">
+[Japanese](ja/README.md)
+</div></div>
 The following document contains a series of best practices and recommendations for building enterprise web applications 
 with JavaScript and HTML5. 
 
