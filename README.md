@@ -7,9 +7,7 @@ Much of this advice is used internally at Sencha and certainly applies to buildi
 frameworks -- but this JavaScript style guide can also help teams building applications with any framework, or 
 even just vanilla JavaScript.
 
- A | B
---|--
- | [Japanese](ja/README.md)
+[Japanese](ja/README.md) | [Japanese](ja/README.md)
 
 ##Mission Statement
 
