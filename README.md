@@ -1,14 +1,15 @@
 #Sencha's Guide to JavaScript Style and Best Practices
 
-<div style="position:absolute; right: 6px; top: 6px;">
-<a href="ja/README.md">Japanese</a>
-</div>
 The following document contains a series of best practices and recommendations for building enterprise web applications 
 with JavaScript and HTML5. 
 
 Much of this advice is used internally at Sencha and certainly applies to building applications with the Sencha 
 frameworks -- but this JavaScript style guide can also help teams building applications with any framework, or 
 even just vanilla JavaScript.
+
+ A | B
+--|--
+ | [Japanese](ja/README.md)
 
 ##Mission Statement
 
